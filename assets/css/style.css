@@ -1,8 +1,11 @@
 @import './global.css';
+@import './tipografia.css';
+@import './cores.css';
+@import './bicicletas-lista.css';
 @import './header.css';
+@import './tecnologia.css';
 @import './componentes.css';
 @import './introducão.css';
-
 
 @media( max-width: 800px){
     .header-menu{
